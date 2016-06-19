@@ -14,4 +14,8 @@ No. | Nama
 --- | ---
 1. | Hanif Isnain Musthafa
 
+- | Nama
+--- | ---
+2. | Taufik Nur Rakhman
+
 - [x] Selesai :+1:
